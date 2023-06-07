@@ -2,6 +2,8 @@
 
 This is a Python bot created to afk on https://www.prepscholar.com/. If you need a certain amount of hours, you can leave this on and it will make sure the website doesnt kick you out, and it will make sure you get credit for the AFK. You wont get any assignments complete so it is probably still a good idea to do some assignments so it doesnt look obvious, but if you need extra hours, this is how to do it.
 
+> Please let me know any suggestions I can add or work on. I'll keep making this better over time.
+
 ## Usage
 
 1. To use this bot, open it in your code editor and run the program. It will take over from there.
