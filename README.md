@@ -21,6 +21,8 @@ The following are features that I have added for ease of use.
 
 ## Notes
 
+- > `IMPORTANT`: Currently, this program is only supported with 2560x1440p monitors but I intend to add multiple versions for different resolutions in the future.
+
 In the current state of the program, the most you can AFK and get credit for is `5 hours`. You can add on to this if you would like by adding more of the following code snippet:
 
 ```py
