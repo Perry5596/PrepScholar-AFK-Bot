@@ -6,7 +6,9 @@ This is a Python bot created to afk on https://www.prepscholar.com/. If you need
 ## Usage
 
 1. To use this bot, open it in your code editor and run the program. It will take over from there.
-1. Next, make sure you are on the website linked above and you are on an assignment where you can read through it. Don't be in a quiz screen or anything else, you want to be in the lecture screen which usually has a video.
+1. Next, make sure you are on the website linked above and you are on an assignment where you can read through it. Don't be in a quiz screen or anything else, you want to be in the `lecture screen` which usually has a video.
+1. Also, make sure to have at least 5 incomplete assignments in your top row that have a blue button that says `"Start Lesson"`.
+1. Make sure to be in `full screen` on your primary monitor.
 1. Now leave your mouse still and after about 10 seconds the bot will start.
 1. To exit the program, simply close the terminal that you opened in the first place.
 
